@@ -3,5 +3,5 @@ A developing country, Fiji is facing rapid urbanisation. However, it has been id
 
 ![Input](https://github.com/DARE-ML/landcovermapping-Fiji/assets/122882976/780c6aea-c76a-4605-883f-54cf7eafbbcf)
 
-
+2013 - 2019 land cover maps
 ![Land cover change](https://github.com/DARE-ML/landcovermapping-Fiji/assets/122882976/89d353fa-25cc-4cbe-941f-dc61a626131f)
